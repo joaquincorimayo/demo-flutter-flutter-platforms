@@ -7,7 +7,6 @@ import 'package:provider/provider.dart';
 import 'config/app_state.dart';
 import 'home_page.dart';
 
-//TODO WEB - DESKTOP
 // From https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 const flutterDevAccountId = 'UCwXdFgeE9KYzlDdR7TG9cMw';
 // From YouTube Data API
